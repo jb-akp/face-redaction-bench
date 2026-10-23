@@ -1,0 +1,12 @@
+{
+ "8 threads | 1920x1080 (4K downscaled 2x) | yunet_0.9 single pass": 0.0484,
+ "8 threads | 1920x1080 (4K downscaled 2x) | tuned (orig+clahe+stretch, 1x+2x tiled)": 1.0184,
+ "8 threads | 1920x1080 (4K downscaled 2x) | tuned 1x only (orig+clahe+stretch, no upscale)": 0.2355,
+ "8 threads | 3840x2160 (native 4K) | yunet_0.9 single pass": 0.2414,
+ "8 threads | 3840x2160 (native 4K) | tuned 1x only (orig+clahe+stretch, no upscale)": 1.0518,
+ "4 threads | 1920x1080 (4K downscaled 2x) | yunet_0.9 single pass": 0.0507,
+ "4 threads | 1920x1080 (4K downscaled 2x) | tuned (orig+clahe+stretch, 1x+2x tiled)": 1.1346,
+ "4 threads | 1920x1080 (4K downscaled 2x) | tuned 1x only (orig+clahe+stretch, no upscale)": 0.2617,
+ "4 threads | 3840x2160 (native 4K) | yunet_0.9 single pass": 0.2492,
+ "4 threads | 3840x2160 (native 4K) | tuned 1x only (orig+clahe+stretch, no upscale)": 1.1731
+}

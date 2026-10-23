@@ -1,0 +1,29 @@
+{
+ "light_gaussian_control": {
+  "faces": 213,
+  "redetected_by_yunet_0_5": 189,
+  "mean_ssim_vs_original": 0.568,
+  "identity_checked": 211,
+  "sface_same_identity": 61
+ },
+ "pixelate_noise (ours)": {
+  "faces": 213,
+  "redetected_by_yunet_0_5": 0,
+  "mean_ssim_vs_original": 0.37,
+  "identity_checked": 211,
+  "sface_same_identity": 2
+ },
+ "pixelate_noise + attack": {
+  "faces": 213,
+  "redetected_by_yunet_0_5": 8,
+  "mean_ssim_vs_original": 0.423,
+  "identity_checked": 211,
+  "sface_same_identity": 1
+ },
+ "outside_box_check": {
+  "images": 160,
+  "identical_in_memory": 160,
+  "identical_after_png": 160
+ },
+ "sface_chance_match_rate_vs_other_people": 0.0044
+}
